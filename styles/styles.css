@@ -38,7 +38,8 @@ body {
 	font-family: 'Dancing Script';
 	transition: 0.2s;
 }
-#reset:hover,#percentages:hover{
+#reset:hover,
+#percentages:hover {
 	transform: scale(1.1);
 }
 #title {
